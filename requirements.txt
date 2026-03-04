@@ -1,7 +1,7 @@
-streamlit
-langchain
-langchain-community
-sentence-transformers
-transformers
-torch
+streamlit==1.35.0
+langchain==0.1.17
+langchain-community==0.0.36
+sentence-transformers==2.7.0
+transformers==4.40.2
+torch==2.2.2
 pypdf
