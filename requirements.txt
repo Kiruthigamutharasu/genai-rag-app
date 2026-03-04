@@ -1,9 +1,8 @@
 streamlit==1.35.0
 langchain==0.1.17
 langchain-community==0.0.36
-langchain-text-splitters==0.0.1
-faiss-cpu==1.13.2
+faiss-cpu==1.7.4
 sentence-transformers==2.7.0
 transformers==4.40.2
-torch==2.10.0
+torch==2.2.2
 pypdf
